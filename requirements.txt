@@ -3,4 +3,4 @@ langchain-community
 langchain-nvidia-ai-endpoints
 langchain-ollama
 beautifulsoup4
-
+faiss-cpu
