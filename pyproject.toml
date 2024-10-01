@@ -19,6 +19,8 @@ youtube-transcript-api = "^0.6.2"
 pytube = "^15.0.0"
 langchain-chroma = "^0.1.4"
 pypdf = "^5.0.1"
+langsmith = "^0.1.129"
+langchain-anthropic = "^0.2.1"
 
 
 [build-system]
